@@ -74,6 +74,11 @@
    References panel — see each reference's own `kind` field below for its
    individual result and sourcing.
 */
+// Date this tool's content and citations were last built/checked
+// together (see assets/app.js's References summary, and the hub
+// README's "Content search index"-adjacent conventions doc).
+const VERIFIED = "2026-11-08";
+
 const REFERENCES = [
   {
     id: 1,
